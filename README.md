@@ -4,6 +4,8 @@ The repository contains the cpp code for the joint latent space item response mo
 
 Publication link: https://doi.org/10.4178/epih.e2022093
 
+Related package: https://arxiv.org/abs/2205.06989
+
 ### ABSTRACT
 **OBJECTIVES:** According to previous findings, stressful life events (SLEs) and their subtypes are associated with depressive symptoms. However, few studies have explored potential models for these events and incidental symptoms of depression.
 
